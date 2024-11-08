@@ -9,3 +9,6 @@ Prethodno je potrebno instalirati paket line-reader:  npm install line-reader
 TO-DO
 dodati tipove polja - OK
 meteor app za kreiranje opisa kolekcije
+
+
+diodat red za test
