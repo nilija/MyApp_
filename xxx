@@ -1,0 +1,11 @@
+pocinje se sa mtemplateCopy, kopira .meteor strukturu - projekat i fajlove
+putem kojih se vrsi generisanje
+zatim mGenFirst, kreira kostur projekta
+zatim JS fajl je sa donjom crtom mGen_
+Generator čita imekolekcije.txt (imenovati fajl kao kolekciju koja se generiše),
+čita pojedinačne redove sa imenima polja i generiše redove u odgovarajućim fajlovima JS.
+Prethodno je potrebno instalirati paket line-reader:  npm install line-reader
+
+TO-DO
+dodati tipove polja - OK
+meteor app za kreiranje opisa kolekcije
